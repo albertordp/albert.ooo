@@ -134,9 +134,9 @@ img {
   }
   .app {
     width: 19.5rem;
-    height: 38.3rem;
-    -webkit-transform: scale(0.2) translate(-49rem, -95.4rem);
-            transform: scale(0.2) translate(-49rem, -95.4rem);
+    height: 41.3rem;
+    -webkit-transform: scale(0.2) translate(-49rem, -103.4rem);
+            transform: scale(0.2) translate(-49rem, -103.4rem);
   }
   .app ul {
     margin-bottom: 0.3rem;
